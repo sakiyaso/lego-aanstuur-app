@@ -1,0 +1,2 @@
+-- Hier schrijf je zelf je tabellen, bijvoorbeeld:
+-- CREATE TABLE ... ( ... );
